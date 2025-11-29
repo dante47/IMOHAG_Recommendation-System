@@ -1,6 +1,6 @@
 # IMOHAG Project — Full Implementation
 
-This repository contains a complete implementation of the IMOHAG hybrid AI framework described in the manuscript.
+This repository contains a complete implementation of the IMOHAG hybrid AI.
 It includes data loading, preprocessing, collaborative-filtering and content-based recommenders, hybrid combiner,
 evaluation metrics (Precision@K, Recall@K, MAP, nDCG), sentiment utilities, simple pricing tools, and Excel export with charts.
 
