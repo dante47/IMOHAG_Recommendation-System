@@ -18,24 +18,6 @@ The framework integrates:
 All datasets, code, evaluation scripts, and reproducible notebooks used in the IMOHAG study are publicly available in this repository.
 No personal or sensitive data is included; all user identifiers are fully anonymized.
 
-IMOHAG_Recommendation-System-main/
-│
-├── Datasets + Results/               # Datasets, final metrics, plots, reports
-├── notebooks/                        # Reproducible Jupyter notebooks
-├── scripts/                          # Executable scripts for each IMOHAG module
-├── src/                              # Source code for the IMOHAG framework
-│   ├── recommender/
-│   ├── evaluation/
-│   ├── sentiment/
-│   ├── user_experience/
-│   ├── economics/
-│
-├── IMOHAG-Practical implications     # Additional descriptive files
-├── run_all.py                        # Unified pipeline runner (generated)
-├── requirements.txt
-├── LICENSE
-└── README.md
-
 
 Installation
 Clone the repository
