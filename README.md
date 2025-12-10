@@ -15,7 +15,7 @@ The framework integrates:
 
 **Data Availability Statement
 
-All datasets, code, evaluation scripts, and reproducible notebooks used in the IMOHAG study are publicly available in this repository.
+All datasets, code, and evaluation scripts used in the IMOHAG study are publicly available in this repository.
 No personal or sensitive data is included; all user identifiers are fully anonymized.
 
 
