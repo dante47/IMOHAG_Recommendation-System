@@ -20,15 +20,17 @@ No personal or sensitive data is included; all user identifiers are fully anonym
 
 
 
-# Installation
+# Oveall Installation
 
 
-Clone the repository
-git clone https://github.com/<your-username>/IMOHAG_Recommendation-System-main.git
+**Clone the repository
+$git clone https://github.com/<your-username>/IMOHAG_Recommendation-System-main.git
 cd IMOHAG_Recommendation-System-main
 
-Install dependencies (pip)
-pip install -r requirements.txt
+**Install dependencies (pip)
+$pip install -r requirements.txt
+$python run_all.py
+
 
 
 
