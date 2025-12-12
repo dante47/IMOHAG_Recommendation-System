@@ -1,6 +1,6 @@
-IMOHAG Project — Full Implementation
+# IMOHAG Project — Full Implementation
 
-**This repository contains a complete implementation of the IMOHAG hybrid AI.
+This repository contains a complete implementation of the IMOHAG hybrid AI.
 The framework integrates:
 
 -Hybrid Recommendation Modeling
@@ -13,14 +13,14 @@ The framework integrates:
 
 -Economic Insights (Revenue, Booking Patterns)
 
-**Data Availability Statement
+## Data Availability Statement
 
 All datasets, code, and evaluation scripts used in the IMOHAG study are publicly available in this repository.
 No personal or sensitive data is included; all user identifiers are fully anonymized.
 
 
 
-**Installation
+# Installation
 
 
 Clone the repository
