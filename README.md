@@ -25,7 +25,9 @@ No personal or sensitive data is included; all user identifiers are fully anonym
 
 
 **Clone the repository
+
 $git clone https://github.com/<your-username>/IMOHAG_Recommendation-System-main.git
+
 cd IMOHAG_Recommendation-System-main
 
 **Install dependencies (pip)
