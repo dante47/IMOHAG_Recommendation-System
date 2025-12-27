@@ -1,17 +1,30 @@
-# IMOHAG Project — Full Implementation
+# IMOHAG Project — Simulation-Based Decision Support Framework
 
-This repository contains a complete implementation of the IMOHAG hybrid AI.
-The framework integrates:
+This repository contains the full implementation of IMOHAG, a simulation-driven decision-support framework designed for tourist-experience optimization in data-sparse environments. The implementation supports the offline evaluation of recommendation and decision-support behaviors using synthetic datasets that reflect the characteristics of remote tourism destinations.
 
--Hybrid Recommendation Modeling
+The framework provides:
 
--Ranking Evaluation Metrics (Precision@K, Recall@K, MAP, nDCG)
+Recommendation & Ranking Evaluation
 
--Sentiment Accuracy & Resolution-Time Analytics
+Precision@K, Recall@K, MAP, nDCG
 
--User Experience Modeling (SUS, NPS)
+Baseline Model Comparison
 
--Economic Insights (Revenue, Booking Patterns)
+Random, Relevance-Only, Revenue-Driven, Static Weighted-Sum, IMOHAG
+
+User-Experience Proxies
+
+Satisfaction indicators, SUS/NPS-style analytical proxies (synthetic context)
+
+Economic Outcome Indicators
+
+Revenue estimates and booking-source analysis
+
+Sentiment & Feedback Modeling (Offline)
+
+Sentiment-accuracy and resolution-time analytics derived from simulated interaction data
+
+The repository is intended to support reproducible experimentation, comparison against baseline models, and transparent evaluation under synthetic but domain-aligned scenarios,
 
 ## Data Availability Statement
 
