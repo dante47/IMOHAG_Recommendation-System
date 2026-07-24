@@ -87,6 +87,18 @@ def prepare_ultimate_for_userinfo(df):
 
 
 # ------------------------------------------------------------
+# Compatibility aliases (scripts/run_all.py expects these names)
+# ------------------------------------------------------------
+
+def prepare_dataset_for_recall(df):
+    return prepare_recall_dataset(df)
+
+
+def prepare_userinfo(df):
+    return prepare_ultimate_for_userinfo(df)
+
+
+# ------------------------------------------------------------
 # DEBUG block (kept from your original structure but updated)
 # ------------------------------------------------------------
 
